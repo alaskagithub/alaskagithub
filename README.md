@@ -1,6 +1,6 @@
 <h1>< French developper and translator. ></h1> <br>
 
-  <h2>Web Designer.</h3>
+  <h2>Web Designer and Bot coding.</h3>
 
 ![Stats du Github de Pendejoo](https://github-readme-stats.vercel.app/api?username=alaskafr&theme=jolly&show_icons=true&locale=fr)
 
